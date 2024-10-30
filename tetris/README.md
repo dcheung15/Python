@@ -1,3 +1,5 @@
+Tetris game built in python
+
 Requirements:
 numpy   2.1.1
 pip     24.2
